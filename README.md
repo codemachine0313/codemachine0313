@@ -2,7 +2,7 @@
 
 
 
-### Hi there👋
+### Hi there👋  I'm a senior Python developer.
 [![Gmail Badge](https://img.shields.io/badge/-snowman19980223@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snowman19980223@gmail.com)](mailto:snowman19980223@gmail.com) 
 
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
